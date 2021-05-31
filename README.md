@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VladimirAvstriychenko
-- 👀 I’m interested in busyness automatization
+- 👀 I’m interested in business automatization
 - 🌱 I’m currently learning iOS app design and architecture with Swift language
-- 💞️ I’m looking to collaborate on designing iOS busyness app startups
+- 💞️ I’m looking to collaborate on designing iOS business app startups
 - 📫 How to reach me: liquidslash@gmail.com
 
 <!---
